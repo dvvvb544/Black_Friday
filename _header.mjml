@@ -1,0 +1,129 @@
+<mjml>
+    <mj-head>
+        <mj-style>
+            @media only screen and (min-width: 480px) {
+                .header__friday div {
+                    font-size: 100px !important;
+                    line-height: 100px !important;
+                }
+                .header__off div {
+                    font-size: 60px !important;
+                    line-height: 45px !important;
+                }
+                .header__bottom_text div {
+                    font-size: 20px !important;
+                }
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section padding="10px 5px">
+            <mj-column>
+                <mj-image 
+                    src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/logo.png" 
+                    alt="Logo image"
+                    width="130px" />
+                <mj-divider 
+                    padding="10px 0"
+                    border-width="1px"
+                    border-color="#FFFFFF" />
+                <mj-navbar>
+                    <mj-navbar-link
+                        href="#" 
+                        mj-class="white fs14" 
+                        padding="10px 20px" 
+                        line-height="20px"
+                        text-transform="uppercase"
+                    >WATCHES</mj-navbar-link>
+                    <mj-navbar-link
+                        href="#" 
+                        mj-class="white fs14" 
+                        padding="10px 20px" 
+                        line-height="20px"
+                        text-transform="uppercase"
+                    >SUNGLASSES</mj-navbar-link>
+                    <mj-navbar-link
+                        href="#" 
+                        mj-class="white fs14" 
+                        padding="10px 20px" 
+                        line-height="20px"
+                        text-transform="uppercase"
+                    >JEWELRY</mj-navbar-link>
+                    <mj-navbar-link
+                        href="#" 
+                        mj-class="white fs14" 
+                        padding="10px 20px" 
+                        line-height="20px"
+                        text-transform="uppercase"
+                    >BLOG</mj-navbar-link>
+                </mj-navbar>
+                <mj-divider 
+                    padding="10px 0"
+                    border-width="1px"
+                    border-color="#FFFFFF" />
+                <mj-spacer height="15px" />
+                <mj-text
+                    mj-class="gray center"
+                    padding="10px"
+                    font-size="17px"
+                    font-style="italic"
+                    line-height="20px"
+                >Save the date - November 25th</mj-text>
+                <mj-spacer height="35px" />
+                <mj-button
+                    mj-class="black"
+                    padding="10px"
+                    inner-padding="15px 35px"
+                    background-color="#FFFFFF"
+                    font-size="40px"
+                    line-height="30px"
+                    letter-spacing="8px"
+                    text-transform="uppercase"
+                >BLACK</mj-button>
+                <mj-text
+                    mj-class="bold white center"
+                    css-class="header__friday"
+                    padding="25px 5px"
+                    font-size="50px"
+                    line-height="50px"
+                    letter-spacing="12px"
+                >FRIDAY</mj-text>
+                <mj-text
+                    mj-class="white center"
+                    padding="10px"
+                    font-size="30px"
+                    line-height="20px"
+                    letter-spacing="5px"
+                >DON'T MISS</mj-text>
+              	<mj-spacer height="20px" />
+                <mj-text
+                    mj-class="white bold center"
+                    css-class="header__off"
+                    padding="10px"
+                    font-size="30px"
+                    line-height="45px"
+                    letter-spacing="10px"
+                >50% OFF</mj-text>
+                <mj-spacer height="30px" />
+                <mj-text
+                    mj-class="white center"
+                    css-class="header__bottom_text"
+                    padding="5px"
+                    font-size="15px"
+                    line-height="25px"
+                    letter-spacing="7px"
+                >SELECTED ITEMS</mj-text>
+                <mj-text
+                    mj-class="white center"
+                    css-class="header__bottom_text"
+                    padding="5px"
+                    font-size="15px"
+                    line-height="25px"
+                    letter-spacing="7px"
+                >ONLINE AND IN-STORES</mj-text>
+                <mj-spacer height="20px" />
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>

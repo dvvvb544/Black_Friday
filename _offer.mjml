@@ -1,0 +1,23 @@
+<mj-section padding="10px 0">
+    <mj-column>
+        <mj-divider 
+            padding="15px 0"
+            border-width="1px"
+            border-color="#000000" />
+        <mj-spacer height="25px" />
+        <mj-text
+            mj-class="fs30 bold black center"
+            line-height="45px"
+        >LIMITED TIME OFFER</mj-text>
+        <mj-text
+            mj-class="fs15 black center"
+            padding="10px 20px"
+            line-height="25px"
+        >Whether you are searching for that perfect Christmas gift or simply looking to indulge in our striking range of luxury and designer watches, you can be sure to find the perfect treat in our Black Friday sales.</mj-text>
+        <mj-text
+            mj-class="center"
+            padding="15px 20px"
+            line-height="45px"
+        ><a href="#" style="font-size: 25px; color: #000000;">BE FIRST TO GET → </a></mj-text>
+    </mj-column>
+</mj-section>

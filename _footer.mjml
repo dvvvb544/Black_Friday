@@ -1,0 +1,66 @@
+<mj-section>
+    <mj-column padding="30px 0 20px">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/logo.png" 
+            alt="logo image"
+            width="120px"/>
+        <mj-social padding="10px">
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/facebook@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/twitter@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/instagram@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/youtube@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/vimeo@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/tiktok@2x.png"
+                    href="#"
+                    padding="5px 10px"
+                    icon-size="32px"                
+                ></mj-social-element>
+            </mj-social>
+        <mj-text
+            mj-class="fs12 white center"
+            padding="5px 10px"
+            line-height="10px"
+        >Your address - City 00000</mj-text>
+        <mj-text
+            mj-class="fs12 white center"
+            padding="5px 10px"
+            line-height="10px"
+        >Phone: +00 111 222 333 - info@example.com</mj-text>
+        <mj-text
+            mj-class="fs12 white center"
+            padding="10px"
+            line-height="20px"
+        >If you prefer not to receive marketing emails form this list, click here to unsubscribe.</mj-text>
+        <mj-text
+            mj-class="fs14 gray center"
+            padding="10px"
+            line-height="15px"
+        >Company Name © - 2022 All rights reserved</mj-text>
+    </mj-column>
+</mj-section>

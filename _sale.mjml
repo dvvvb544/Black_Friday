@@ -1,0 +1,38 @@
+<mj-section padding="20px 0 30px">
+    <mj-column>
+        <mj-spacer height="10px" />
+        <mj-text
+            mj-class="fs30 black center"
+            padding="10px"
+            line-height="45px"
+            font-style="italic"
+        >Black Friday Sale is ON...</mj-text>
+        <mj-spacer height="15px" />
+        <mj-text
+            mj-class="fs15 black center"
+            padding="5px 10px"
+            line-height="20px"
+            letter-spacing="4px"
+        >BIGGEST SALE EVENT OF THE YEAR IS ON
+AND YOU DON'T WANT TO MISS IT!</mj-text>
+        <mj-spacer height="15px" />
+        <mj-text
+            mj-class="fs15 black center"
+            padding="5px 10px"
+            line-height="30px"
+        >Discover our incredible Black Friday sales with huge savings, discount, deals and exclusive offers available for a limited time online and in-stores.</mj-text>
+        <mj-text
+            mj-class="fs25 bold black center"
+            padding="10px"
+            line-height="20px"
+        >UP TO <spam href="#" style="color: #FF0000;">50 % OFF</span></mj-text>
+        <mj-spacer height="25px" />
+        <mj-button
+            mj-class="fs18 bg_black white"
+            inner-padding="10px 20px"
+            line-height="32px"
+            letter-spacing="3px"
+            text-transform="uppercase"
+        >SHOP NOW</mj-button>  
+    </mj-column>
+</mj-section>

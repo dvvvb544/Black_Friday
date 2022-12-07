@@ -1,0 +1,71 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-title>Black Friday</mj-title>
+      
+      <mj-class name="center" align="center" />
+
+      <mj-class name="fs12" font-size="12px" />
+      <mj-class name="fs14" font-size="14px" />
+      <mj-class name="fs15" font-size="15px" />
+      <mj-class name="fs18" font-size="18px" />
+      <mj-class name="fs20" font-size="20px" />
+      <mj-class name="fs25" font-size="25px" />
+      <mj-class name="fs30" font-size="30px" />
+      <mj-class name="bold" font-weight="700" />
+
+      <mj-class name="black" color="#000000" />
+      <mj-class name="gray" color="#A5A5A5" />
+      <mj-class name="white" color="#FFFFFF" />
+      <mj-class name="red" color="#FF0000" />
+      <mj-class name="bg_black" background-color="#000000" />
+      
+      <mj-font name="Montserrat" href="https://fonts.cdnfonts.com/css/montserrat" />
+      <mj-all font-family="Montserrat, Arial" padding="0" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body width="640px">
+    
+    <mj-wrapper 
+      full-width="full-width"
+      background-color="#000000">
+
+      <mj-include path="./_header.mjml" />
+    </mj-wrapper>
+    
+    <mj-include path="./_hero_image.mjml" />
+
+    <mj-wrapper 
+      full-width="full-width"
+      background-color="#FFFFFF">
+
+      <mj-include path="./_sale.mjml" />
+      <mj-include path="./_goods.mjml" />
+      <mj-include path="./_offer.mjml" />
+    </mj-wrapper>
+
+    <mj-include path="./_shipping.mjml" />
+
+    <mj-wrapper 
+      full-width="full-width"
+      background-color="#000000">
+
+      <mj-include path="./_footer.mjml" />
+    </mj-wrapper>
+
+    <mj-section
+      full-width="full-width"
+      background-color="#F6F6FC"
+    >
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

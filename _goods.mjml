@@ -1,0 +1,110 @@
+<mj-section>
+    <mj-column vertical-align="middle">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/WATCH.png" 
+            alt="Watch image"
+            padding="5px" />
+    </mj-column>
+
+    <mj-column 
+        vertical-align="middle"
+        padding="10px"
+    >
+        <mj-text
+            mj-class="fs20 bold red"
+            line-height="30px"
+        >50% OFF</mj-text>
+        <mj-text
+            mj-class="fs30 bold black"
+            padding="5px 0"
+            line-height="35px"
+        >WATCHES</mj-text>
+        <mj-text
+            mj-class="fs15 black"
+            padding="5px 0 10px"
+            line-height="25px"
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</mj-text>
+        <mj-button
+            mj-class="fs18 bg_black white"
+            align="left"
+            inner-padding="10px 20px"
+            line-height="32px"
+            letter-spacing="3px"
+            text-transform="uppercase"
+        >SHOP NOW</mj-button>    
+    </mj-column>
+</mj-section>
+
+<mj-section direction="rtl">
+    <mj-column vertical-align="middle">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/SUNGLASSES.png" 
+            alt="Sunglasses image"
+            padding="5px" />
+    </mj-column>
+
+    <mj-column 
+        vertical-align="middle"
+        padding="10px"
+    >
+        <mj-text
+            mj-class="fs20 bold red"
+            line-height="30px"
+        >50% OFF</mj-text>
+        <mj-text
+            mj-class="fs30 bold black"
+            padding="5px 0"
+            line-height="35px"
+        >SUNGLASSES</mj-text>
+        <mj-text
+            mj-class="fs15 black"
+            padding="5px 0 10px"
+            line-height="25px"
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</mj-text>
+        <mj-button
+            mj-class="fs18 bg_black white"
+            align="left"
+            inner-padding="10px 20px"
+            line-height="32px"
+            letter-spacing="3px"
+            text-transform="uppercase"
+        >SHOP NOW</mj-button>    
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column vertical-align="middle">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/EARRINGS.png" 
+            alt="Jewels image"
+            padding="5px" />
+    </mj-column>
+
+    <mj-column 
+        vertical-align="middle"
+        padding="10px"
+    >
+        <mj-text
+            mj-class="fs20 bold red"
+            line-height="30px"
+        >50% OFF</mj-text>
+        <mj-text
+            mj-class="fs30 bold black"
+            padding="5px 0"
+            line-height="35px"
+        >JEWELS</mj-text>
+        <mj-text
+            mj-class="fs15 black"
+            padding="5px 0 10px"
+            line-height="25px"
+        >Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet.</mj-text>
+        <mj-button
+            mj-class="fs18 bg_black white"
+            align="left"
+            inner-padding="10px 20px"
+            line-height="32px"
+            letter-spacing="3px"
+            text-transform="uppercase"
+        >SHOP NOW</mj-button>    
+    </mj-column>
+</mj-section>

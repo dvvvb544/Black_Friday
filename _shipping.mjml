@@ -1,0 +1,17 @@
+<mj-section
+    full-width="full-width"
+    background-color="#E4E4E4"
+    padding="20px 0"
+>
+    <mj-column>
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/free.png" 
+            alt="ship image"
+            width="30px" />
+        <mj-text
+            mj-class="fs18 black center"
+            padding="10px"
+            line-height="32px"
+        >FREE SHIPPING WORLDWIDE ON ALL ORDERS</mj-text>
+    </mj-column>
+</mj-section>

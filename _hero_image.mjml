@@ -1,0 +1,9 @@
+<mj-section
+    full-width="full-width"
+    background-color="#000000"
+    background-url="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7566/BACKGROUND-IMAGE.jpg"
+>
+    <mj-column>
+        <mj-spacer height="540px" />
+    </mj-column>
+</mj-section>
